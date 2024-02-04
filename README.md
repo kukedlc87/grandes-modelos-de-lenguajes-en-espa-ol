@@ -19,6 +19,9 @@ Para empezar, asegúrate de tener una cuenta de GitHub y acceso a plataformas qu
 - Python 3.6 o superior
 - Pip para manejar paquetes de Python
 - Acceso a Google Colab o Kaggle para entornos de desarrollo gratuitos
+- Cuenta en huggingface.co, es gratuito y se pueden subir y desplegar nuestros modelos ahi.
+- Opcional: Cuenta en wandb, sirve para guardar las metricas de nuestros trains (entrenamientos), super util.
+- Mucha paciencia! ya que al ser algo nuevo hay poca informacion, poco soporte, las librerias cambian y los codigos dejan de andar, etc!
 
 ## Contribuir 🤝
 
