@@ -53,13 +53,66 @@ Para cualquier consulta, colaboración o simplemente para conectar, aquí tienes
 
 - **Email**: [eugeniokuke@gmail.com](mailto:eugeniokuke@gmail.com)
 - **LinkedIn**: [Eugenio Schiavoni](https://www.linkedin.com/in/eugenio-schiavoni/)
-- **Kaggle**: [eugeniokukes](https://www.kaggle.com/code/eugeniokukes)
+- **Kaggle**[Enlace a Kaggle personal](https://www.kaggle.com/eugeniokukes/code)
+
+# Curso de LLM (Modelos de Lenguaje Largo)
+
+El curso de LLM está dividido en tres partes:
+
+## Fundamentos de LLM
+
+Esta sección cubre conocimientos esenciales sobre matemáticas, Python y redes neuronales.
+
+## El Científico de LLM
+
+Esta parte se centra en construir los mejores LLM posibles utilizando las técnicas más recientes.
+
+## El Ingeniero de LLM
+
+En esta sección, aprenderás a crear aplicaciones basadas en LLM y a desplegarlas.
+
+# Cuadernos y Artículos
+
+## Herramientas
+
+| Cuaderno            | Descripción                                              | Cuaderno                                                |
+| ------------------- | -------------------------------------------------------- | ------------------------------------------------------- |
+| 🧐 LLM AutoEval      | Evalúa automáticamente tus LLMs utilizando RunPod       | [Abrir en Colab](enlace-aquí)                          |
+| 🥱 LazyMergekit      | Fusiona modelos fácilmente con mergekit en un clic      | [Abrir en Colab](enlace-aquí)                          |
+| ⚡ AutoGGUF           | Cuantiza LLMs en formato GGUF en un clic                | [Abrir en Colab](enlace-aquí)                          |
+| 🌳 Modelo Family Tree | Visualiza el árbol genealógico de modelos fusionados     | [Abrir en Colab](enlace-aquí)                          |
+
+## Ajuste Fino
+
+| Cuaderno                               | Descripción                                        | Artículo                  | Cuaderno                                                |
+| -------------------------------------- | -------------------------------------------------- | ------------------------- | ------------------------------------------------------- |
+| Ajuste Fino de Llama 2 en Google Colab  | Guía paso a paso para ajustar fino tu primer modelo Llama 2 | [Artículo](enlace-aquí)   | [Abrir en Colab](enlace-aquí)                          |
+| Ajuste Fino de LLMs con Axolotl         | Guía completa de la herramienta de última generación para ajuste fino | [Artículo](enlace-aquí)   | [Abrir en Colab](enlace-aquí)                          |
+| Ajuste Fino de Mistral-7b con DPO       | Mejora el rendimiento de modelos ajustados finamente supervisados con DPO | [Artículo](enlace-aquí)   | [Abrir en Colab](enlace-aquí)                          |
+
+## Cuantización
+
+| Cuaderno                                  | Descripción                                                  | Artículo                  | Cuaderno                                                |
+| ----------------------------------------- | ------------------------------------------------------------ | ------------------------- | ------------------------------------------------------- |
+| 1. Introducción a la Cuantización         | Optimización de modelos de lenguaje grande utilizando cuantización de 8 bits | [Artículo](enlace-aquí)   | [Abrir en Colab](enlace-aquí)                          |
+| 2. Cuantización de 4 bits usando GPTQ     | Cuantiza tus propios LLMs de código abierto para ejecutarlos en hardware de consumo | [Artículo](enlace-aquí)   | [Abrir en Colab](enlace-aquí)                          |
+| 3. Cuantización con GGUF y llama.cpp       | Cuantiza modelos Llama 2 con llama.cpp y sube versiones GGUF al HF Hub | [Artículo](enlace-aquí)   | [Abrir en Colab](enlace-aquí)                          |
+| 4. ExLlamaV2: La Biblioteca Más Rápida para Ejecutar LLMs | Cuantiza y ejecuta modelos EXL2 y súbelos al HF Hub          | [Artículo](enlace-aquí)   | [Abrir en Colab](enlace-aquí)                          |
+
+## Otros
+
+| Cuaderno                                   | Descripción                                                      | Artículo                  | Cuaderno                                                |
+| ------------------------------------------ | ---------------------------------------------------------------- | ------------------------- | ------------------------------------------------------- |
+| Estrategias de Decodificación en Modelos de Lenguaje Grande | Una guía para la generación de texto desde la búsqueda de haz hasta el muestreo de núcleo | [Artículo](enlace-aquí)   | [Abrir en Colab](enlace-aquí)                          |
+| Visualizando el Paisaje de Pérdidas de GPT-2 | Gráfico 3D del paisaje de pérdidas basado en perturbaciones de peso | [Tweet](enlace-aquí)      | [Abrir en Colab](enlace-aquí)                          |
+| Mejorar ChatGPT con Gráficos de Conocimiento | Mejora las respuestas de ChatGPT con gráficos de conocimiento | [Artículo](enlace-aquí)   | [Abrir en Colab](enlace-aquí)                          |
+| Fusionar Modelos de LLMs con mergekit      | Crea tus propios modelos fácilmente, ¡sin necesidad de GPU!     | [Artículo](enlace-aquí)   | [Abrir en Colab](enlace-aquí)                          |
 
 
 
-# Curso de Maxime Labonne de LLMs (Gracias Maxime) al español.
-
-# Matemáticas para Aprendizaje Automático
+# Curso de Maxime Labonne de LLMs (Gracias Maxime) al español. En proceso, algunos links estan mal, para ver el original: 
+- **Curso original de LLMs por Maxime Labonne**: [Maxime Labonne llm course](https://github.com/mlabonne/llm-course)
+## Matemáticas para Aprendizaje Automático
 
 Antes de dominar el aprendizaje automático, es importante comprender los conceptos matemáticos fundamentales que impulsan estos algoritmos.
 
